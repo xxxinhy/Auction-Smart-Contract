@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-import "./Assignment2.sol";
+import "./Interface.sol";
 
 contract VickreyAuction is IVickreyAuction {
     uint256 public reservePrice;
